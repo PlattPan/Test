@@ -5,7 +5,7 @@ public class Test2 {
 	public static void main(String[] args) {
 		Scanner input1=new Scanner(System.in);
 		
-		System.out.println("ÇëÊäÈëÒ»¸öÊı×Ö×Ö·û´®");
+		System.out.println("Ã‡Ã«ÃŠÃ¤ÃˆÃ«Ã’Â»Â¸Ã¶ÃŠÃ½Ã—Ã–Ã—Ã–Â·Ã»Â´Â®");
 		int m=input1.nextInt();
 		String s=m+"";
 		int[] c=new int[s.length()];
@@ -33,7 +33,7 @@ public class Test2 {
 		}
 		
 		}
-		System.out.println("");
+		System.out.println("123");
 		
 		
 
